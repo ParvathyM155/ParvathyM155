@@ -70,15 +70,19 @@ I am an **Aspiring Data Analyst** currently pursuing my **BCA in Artificial Inte
 
 ---
 
-<div align="center">
+## 📊 Live Data Insights
+*The dashboard below is automatically updated every 24 hours via GitHub Actions.*
 
-## 📊 Analytics & Stats
+<p align="center">
+  <img src="https://github.com/ParvathyM155/ParvathyM155/blob/master/github-metrics.svg" width="100%" alt="GitHub Metrics Dashboard" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvathyM155&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ParvathyM155&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ParvathyM155/ParvathyM155/blob/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 
 ---
 
