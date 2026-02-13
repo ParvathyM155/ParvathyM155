@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/ParvathyM155.png" width="140" style="border-radius: 50%; border: 3px solid #0077B5;" />
-
 # 👋 Hello, I'm Parvathy M
 
 ### BCA Student | Aspiring Data Analyst 📊
