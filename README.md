@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ParvathyM155/ParvathyM155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/ParvathyM155.png" width="140" style="border-radius: 50%; border: 3px solid #0077B5;" />
 
-Here are some ideas to get you started:
+# 👋 Hello, I'm Parvathy M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BCA Student | Aspiring Data Analyst 📊
+*“Transforming raw datasets into clear, actionable stories through Python and visualization.”*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvathy-m-443b02313/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParvathyM155)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvathym133@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<table width="90%" style="border-radius:20px; background-color:#0d1117; padding:20px; border: 1px solid #30363d;">
+<tr>
+<td>
+
+## 🚀 About Me
+
+I am an **Aspiring Data Analyst** currently pursuing my **BCA in Artificial Intelligence and Data Science** at Chinmaya Vishwa Vidyapeeth (Expected 2028). I specialize in deriving insights through data cleaning, EDA, and machine learning.
+
+* 📍 **Location:** Thrissur, Kerala, India
+* 🎯 **Availability:** Open for internships during **May-June**
+* ⚡ **Focus:** Pattern Recognition and Data Storytelling
+* 📚 **Learning:** Exploring Generative AI and advanced Predictive Modeling
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Technical Toolbox
+
+### 💻 Programming & Frameworks
+<img src="https://skillicons.dev/icons?i=python,java,c,r,mysql,git,github,vscode" />
+
+### 📊 Data Science Specialization
+* **Visualization:** Matplotlib, Seaborn, Histograms, Line/Bar/Pie Charts
+* **Libraries:** Pandas, NumPy, Scikit-Learn
+* **Core CS:** Data Structures, Algorithms, OOP, OS Basics, and Software Engineering
+
+---
+
+## 📂 Featured Projects
+
+### 🎬 [Netflix Data Exploration](https://github.com/ParvathyM155/Netflix-Data-Exploration)
+* Explored global datasets to identify viewer trends and content attributes.
+* Used statistical analysis and visualization to reveal popularity patterns.
+* **Tech:** `Python`, `Pandas`, `Matplotlib`.
+
+### 📅 [Event Data Analysis](https://github.com/ParvathyM155/Event-Data-Analysis-Project)
+* Cleaned and transformed raw datasets for analysis readiness.
+* Designed visual dashboards to represent key metrics and insights.
+* **Tech:** `Python`, `Seaborn`, `NumPy`.
+
+---
+
+## 🏅 Certifications
+* **Conversational Data Analysis with LLMs** – AICTE VOIS Virtual Internship
+* **Remote Sensing Data Analytics** – ISRO (IIRS)
+* **Artificial Intelligence Internship** – AICTE & Edunet Foundation
+* **Introduction to Python** – IBM Career Education
+
+---
+
+<div align="center">
+
+## 📊 Analytics & Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvathyM155&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ParvathyM155&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+<div align="center">
+  <b>Let's connect and build something data-driven!</b>
+</div>
