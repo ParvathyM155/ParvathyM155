@@ -81,7 +81,7 @@ I am an **Aspiring Data Analyst** currently pursuing my **BCA in Artificial Inte
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ParvathyM155/ParvathyM155/blob/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ParvathyM155/ParvathyM155/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
