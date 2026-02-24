@@ -71,7 +71,6 @@ I am an **Aspiring Data Analyst** currently pursuing my **BCA in Artificial Inte
 ---
 
 ## 📊 Live Data Insights
-*The dashboard below is automatically updated every 24 hours via GitHub Actions.*
 
 <p align="center">
   <img src="https://github.com/ParvathyM155/ParvathyM155/blob/main/github-metrics.svg" width="100%" alt="GitHub Metrics Dashboard" />
