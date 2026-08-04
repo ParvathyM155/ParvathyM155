@@ -95,12 +95,8 @@ My project work spans data cleaning, exploratory analysis, and machine learning.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ParvathyM155&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Parvathy's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvathyM155&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParvathyM155&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="./profile/stats.svg" alt="Parvathy's GitHub Stats" height="165" />
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
 
 <br>
 
